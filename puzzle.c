@@ -60,7 +60,7 @@ int main()
         if(!strcmp(ans,pw))
             {
                 ps1=ps1+1;
-                printf("\nWright answer, Your new score is %d\n",ps1);
+                printf("\nRight answer, Your new score is %d\n",ps1);
             }
         else
             printf("\nWrong! Answer= %s , score=%d\n",pw,ps1);
@@ -75,7 +75,7 @@ int main()
         if(!strcmp(ans,pw))
             {
                 ps2=ps2+1;
-                printf("\nWright answer, Your new score is %d\n",ps2);
+                printf("\nRight answer, Your new score is %d\n",ps2);
             }
         else
             printf("\nWrong! Answer= %s , score=%d\n",pw,ps2);
